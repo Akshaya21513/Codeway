@@ -19,5 +19,14 @@
 
 <details>
   <summary><strong>Codeway_TaskNo4 : SPAM SMS DETECTION</strong></summary>
-  A project to identify spam SMS messages using machine learning techniques.
+    <i>TASK: Build an AI model that can classify SMS messages as spam or legitimate. Use techniques like TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify spam messages</i>
+  <b>Github link</b>: https://lnkd.in/gR9VXAUG
+  <b>Script</b>: Implemented a Python Script.
+  <ul>
+  <b>Key Takeaways:</b>
+  <li>Gained hands-on experience in Machine Learning.</li>
+  <li>Learned basics about NLP.</li>
+  <li>Used various classifiers, such as Naive Bayes, Logistic Regression, and Support Vector Machines to identify spam messages.</li>
+  <li>Multinomial Navie Bayes model gives maximum accuracy, for the given task.</li>
+  </ul>
 </details>
