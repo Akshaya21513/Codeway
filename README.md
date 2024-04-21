@@ -5,7 +5,7 @@
 <details>
   <summary><strong>Codeway_TaskNo1 : MOVIE GENRE CLASSIFICATION</strong></summary>
   <i>TASK: Create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information. You can use techniques like TF-IDF or word embeddings with classifiers such as Naive Bayes, Logistic Regression, or Support Vector Machines.</i><br><br>
-  <b>GitHub link</b>: https://lnkd.in/gJyKShSm<br><br>
+  <b>GitHub link</b>: <a href="https://github.com/akshayasbipin/CODEWAY/blob/5763c3eccf8bb43849c0b020e255569f6a97ed0e/Codeway_TaskNo1.ipynb">here</a><br><br>
   <b>Script</b>: Implemented a Python Script.<br><br>
   <ul>
   <b>Key Takeaways:</b>
