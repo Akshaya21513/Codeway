@@ -17,7 +17,7 @@
 <details>
   <summary><strong>Codeway_TaskNo2 : CREDIT CARD FRAUD DETECTION</strong></summary>
   <i>TASK: Build a model to detect fraudulent credit card transactions. Use a dataset containing information about credit card transactions, and experiment with algorithms like Logistic Regression, Decision Trees, or Random Forests to classify transactions as fraudulent or legitimate.</i><br><br>
-  <b>GitHub link</b>: https://lnkd.in/gteAYwdz<br><br>
+  <b>GitHub link</b>: <a href="https://github.com/akshayasbipin/CODEWAY/blob/2fd5407be8b5d92ffcd3472eaf893cf92677e500/Codeway_TaskNo2.ipynb">here</a><br><br>
   <b>Script</b>: Implemented a Python Script.<br><br>
   <ul>
   <b>Key Takeaways:</b>
@@ -29,7 +29,7 @@
 <details>
   <summary><strong>Codeway_TaskNo3 : CUSTOMER CHURN PREDICTION</strong></summary>
   <i>TASK: Develop a model to predict customer churn for a subscription-based service or business. Use historical customer data, including features like usage behaviour and customer demographics, and try algorithms like Logistic Regression, Random Forests, or Gradient Boosting to predict churn.</i><br><br>
-  <b>GitHub link</b>: https://lnkd.in/gVbvmC49<br><br>
+  <b>GitHub link</b>: <a href="https://github.com/akshayasbipin/CODEWAY/blob/2fd5407be8b5d92ffcd3472eaf893cf92677e500/Codeway_TaskNo3.ipynb">here</a><br><br>
   <b>Script</b>: Implemented a Python Script.<br><br>
   <ul>
   <b>Key Takeaways:</b>
@@ -41,7 +41,7 @@
 <details>
   <summary><strong>Codeway_TaskNo4 : SPAM SMS DETECTION</strong></summary>
     <i>TASK: Build an AI model that can classify SMS messages as spam or legitimate. Use techniques like TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify spam messages</i><br><br>
-  <b>Github link</b>: https://lnkd.in/gR9VXAUG<br><br>
+  <b>Github link</b>: <a href="https://github.com/akshayasbipin/CODEWAY/blob/2fd5407be8b5d92ffcd3472eaf893cf92677e500/Codeway_TaskNo4.ipynb">here</a><br><br>
   <b>Script</b>: Implemented a Python Script.<br><br>
   <ul>
   <b>Key Takeaways:</b>
